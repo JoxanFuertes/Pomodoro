@@ -48,3 +48,8 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
+## Download the app
+If you just want to enjoy the app, and you happen to be an android user, go ahead and download the apk in the "android executable" folder.
+
+# Thank you 👋
